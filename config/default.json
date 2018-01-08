@@ -2,9 +2,9 @@
   "xirsys": {
     "gateway": "us.xirsys.com",
     "info": {
-      "ident": "< Your Account Ident >",
-      "secret": "< Your Account Secret >",
-      "channel": "< Your Account Channel Path >",
+      "ident": "msdevelop",
+      "secret": "9daeb202-e684-11e7-8d0b-14d386449b1e",
+      "channel": "examples",
       "secure": "true"
     },
     "allowedServices": ["/_token", "/_host", "/_data", "/_ns", "/_turn"],
